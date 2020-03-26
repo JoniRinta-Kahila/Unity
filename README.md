@@ -1,7 +1,7 @@
 Joni Rinta-Kahila - PORTFOLIO -
 ===============
 
-This is the raw markdown used to generate the below web content.
+
 
 About me
 -------------
